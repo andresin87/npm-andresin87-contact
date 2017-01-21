@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "500px",
+    "colors": [
+      "#0099e5",
+      "#ff4c4c",
+      "#34bf49"
+    ]
+  },
+  {
+    "id": "About.me",
+    "colors": [
+      "#00405d",
+      "#062f3c",
+      "#2b82ad",
+      "#cc7a00",
+      "#ffcc33"
+    ]
+  },
+  {
+    "id": "Addvocate",
+    "colors": [
+      "#ff3322"
+    ]
+  },
+  {
+    "id": "Adobe",
+    "colors": [
+      "#ff0000",
+      "#fbb034",
+      "#ffdd00",
+      "#c1d82f",
+      "#00a4e4",
+      "#8a7967",
+      "#6a737b"
+    ]
+  },
+  {
+    "id": "Aetna",
+    "colors": [
+      "#d20962",
+      "#f47721",
+      "#7ac143",
+      "#00a78e",
+      "#00bce4",
+      "#7d3f98"
+    ]
+  },
+  {
+    "id": "Aim",
+    "colors": [
+      "#ffd900"
+    ]
+  },
+  {
+    "id": "Airbnb",
+    "colors": [
+      "#fd5c63"
+    ]
+  },
+  {
+    "id": "Alcon",
+    "colors": [
+      "#0079c1",
+      "#49176d",
+      "#00a0af",
+      "#49a942"
+    ]
+  },
+  {
+    "id": "Algolia",
+    "colors": [
+      "#050f2c",
+      "#003666",
+      "#00aeff",
+      "#3369e7",
+      "#8e43e7",
+      "#b84592",
+      "#ff4f81",
+      "#ff6c5f",
+      "#ffc168",
+      "#2dde98",
+      "#1cc7d0"
+    ]
+  },
+  {
+    "id": "Alienware",
+    "colors": [
+      "#020202",
+      "#2ad2c9",
+      "#d0e100",
+      "#00f0f0",
+      "#00f000",
+      "#f0e000",
+      "#00a0f0",
+      "#9000f0",
+      "#f00000"
+    ]
+  },
+  {
+    "id": "Alphabet",
+    "colors": [
+      "#ed1c24"
+    ]
+  },
+  {
+    "id": "Amazon",
+    "colors": [
+      "#ff9900",
+      "#146eb4"
+    ]
+  },
+  {
+    "id": "American Express",
+    "colors": [
+      "#002663",
+      "#4d4f53"
+    ]
+  },
+  {
+    "id": "American Red Cross",
+    "colors": [
+      "#ed1b2e",
+      "#6d6e70",
+      "#d7d7d8",
+      "#b4a996",
+      "#ecb731",
+      "#8ec06c",
+      "#537b35",
+      "#c4dff6",
+      "#56a0d3",
+      "#0091cd",
+      "#004b79",
+      "#7f181b",
+      "#d7d7d8",
+      "#9f9fa3",
+      "#000000"
+    ]
+  },
+  {
+    "id": "Android",
+    "colors": [
+      "#a4c639"
+    ]
+  },
+  {
+    "id": "Angie’s List",
+    "colors": [
+      "#7fbb00"
+    ]
+  },
+  {
+    "id": "AngularJS",
+    "colors": [
+      "#b52e31",
+      "#000000"
+    ]
+  },
+  {
+    "id": "Answers",
+    "colors": [
+      "#136ad5",
+      "#fb8a2e"
+    ]
+  },
+  {
+    "id": "AOL",
+    "colors": [
+      "#ff0b00",
+      "#00c4ff"
+    ]
+  },
+  {
+    "id": "Arch Linux",
+    "colors": [
+      "#1793d1",
+      "#333333"
+    ]
+  },
+  {
+    "id": "Arizona State University",
+    "colors": [
+      "#990033",
+      "#ffb310"
+    ]
+  },
+  {
+    "id": "Asana",
+    "colors": [
+      "#3be8b0",
+      "#1aafd0",
+      "#6a67ce",
+      "#ffb900",
+      "#fc636b"
+    ]
+  },
+  {
+    "id": "Associated Press",
+    "colors": [
+      "#ff322e"
+    ]
+  },
+  {
+    "id": "AT&T",
+    "colors": [
+      "#ff7200",
+      "#fcb314",
+      "#067ab4",
+      "#3aa5dc"
+    ]
+  },
+  {
+    "id": "Atlanta Falcons",
+    "colors": [
+      "#000000",
+      "#a71930",
+      "#a5acaf"
+    ]
+  },
+  {
+    "id": "Atlantic Coast Conference",
+    "colors": [
+      "#013ca6",
+      "#a5a9ab"
+    ]
+  },
+  {
+    "id": "Atlassian",
+    "colors": [
+      "#003366"
+    ]
+  },
+  {
+    "id": "Auth0",
+    "colors": [
+      "#16214d",
+      "#44c7f4",
+      "#eb5424",
+      "#d0d2d3"
+    ]
+  },
+  {
+    "id": "Avira",
+    "colors": [
+      "#d40000"
+    ]
+  },
+  {
+    "id": "Baidu",
+    "colors": [
+      "#de0f17",
+      "#2529d8"
+    ]
+  },
+  {
+    "id": "Bandcamp",
+    "colors": [
+      "#629aa9"
+    ]
+  },
+  {
+    "id": "Barnes & Noble",
+    "colors": [
+      "#2a5934"
+    ]
+  },
+  {
+    "id": "Bebo",
+    "colors": [
+      "#e04646"
+    ]
+  },
+  {
+    "id": "Behance",
+    "colors": [
+      "#1769ff"
+    ]
+  },
+  {
+    "id": "Best Buy",
+    "colors": [
+      "#003b64",
+      "#fff200"
+    ]
+  },
+  {
+    "id": "Big Cartel",
+    "colors": [
+      "#a0ac48",
+      "#70b29c"
+    ]
+  },
+  {
+    "id": "Bing",
+    "colors": [
+      "#ffb900",
+      "#505050",
+      "#a3a3a3"
+    ]
+  },
+  {
+    "id": "Bitbucket",
+    "colors": [
+      "#205081"
+    ]
+  },
+  {
+    "id": "bitly",
+    "colors": [
+      "#ee6123",
+      "#61b3de"
+    ]
+  },
+  {
+    "id": "Blackberry",
+    "colors": [
+      "#005387",
+      "#8cb811",
+      "#fdb813",
+      "#88aca1",
+      "#000000",
+      "#788cb6",
+      "#a1a1a4",
+      "#8f8f8c"
+    ]
+  },
+  {
+    "id": "Blogger",
+    "colors": [
+      "#f57d00"
+    ]
+  },
+  {
+    "id": "Boeing",
+    "colors": [
+      "#0033a1"
+    ]
+  },
+  {
+    "id": "Boise State University",
+    "colors": [
+      "#09347a",
+      "#007dc3",
+      "#0169a4",
+      "#3399cc",
+      "#f1632a",
+      "#464646",
+      "#b7b7b7",
+      "#f6f6f5"
+    ]
+  },
+  {
+    "id": "Bombardier",
+    "colors": [
+      "#8996a0"
+    ]
+  },
+  {
+    "id": "Booking.com",
+    "colors": [
+      "#003580"
+    ]
+  },
+  {
+    "id": "Bower",
+    "colors": [
+      "#ffcc2f",
+      "#ef5734",
+      "#00acee",
+      "#2baf2b",
+      "#543729",
+      "#cecece"
+    ]
+  },
+  {
+    "id": "Boy Scouts of America",
+    "colors": [
+      "#ce1126",
+      "#003f87"
+    ]
+  },
+  {
+    "id": "British Airways",
+    "colors": [
+      "#075aaa",
+      "#eb2226",
+      "#01295c",
+      "#efe9e5",
+      "#aca095",
+      "#b9cfed",
+      "#a7a9ac"
+    ]
+  },
+  {
+    "id": "BT",
+    "colors": [
+      "#d52685",
+      "#553a99",
+      "#6cbc35",
+      "#fd9f3e",
+      "#08538c"
+    ]
+  },
+  {
+    "id": "Buffer",
+    "colors": [
+      "#168eea",
+      "#ee4f4f",
+      "#fff9ea",
+      "#76b852",
+      "#323b43",
+      "#59626a",
+      "#ced7df",
+      "#eff3f6",
+      "#f4f7f9"
+    ]
+  },
+  {
+    "id": "Burger King",
+    "colors": [
+      "#ec1c24",
+      "#fdbd10",
+      "#0066b2",
+      "#ed7902"
+    ]
+  },
+  {
+    "id": "BuzzFeed",
+    "colors": [
+      "#ee3322"
+    ]
+  },
+  {
+    "id": "Bynder",
+    "colors": [
+      "#1ca0de",
+      "#343a4e"
+    ]
+  },
+  {
+    "id": "Cadbury",
+    "colors": [
+      "#472f92"
+    ]
+  },
+  {
+    "id": "Canon",
+    "colors": [
+      "#bc0024",
+      "#000000"
+    ]
+  },
+  {
+    "id": "Capital One",
+    "colors": [
+      "#004977",
+      "#d03027"
+    ]
+  },
+  {
+    "id": "Carbonmade",
+    "colors": [
+      "#613854"
+    ]
+  },
+  {
+    "id": "Carrefour",
+    "colors": [
+      "#00387b",
+      "#bb1e10",
+      "#f67828",
+      "#237f52"
+    ]
+  },
+  {
+    "id": "Cartoon Network",
+    "colors": [
+      "#00aeef",
+      "#ed008c",
+      "#fff000",
+      "#000000"
+    ]
+  },
+  {
+    "id": "Case-Mate",
+    "colors": [
+      "#84754e",
+      "#a6192e",
+      "#decba5",
+      "#000000"
+    ]
+  },
+  {
+    "id": "Change.org",
+    "colors": [
+      "#ec2c22"
+    ]
+  },
+  {
+    "id": "charity: water",
+    "colors": [
+      "#ffc907",
+      "#2e9df7",
+      "#231f20"
+    ]
+  },
+  {
+    "id": "Cheddar",
+    "colors": [
+      "#ff7243"
+    ]
+  },
+  {
+    "id": "Coca-Cola",
+    "colors": [
+      "#ed1c16"
+    ]
+  },
+  {
+    "id": "Code School",
+    "colors": [
+      "#616f67",
+      "#c68143"
+    ]
+  },
+  {
+    "id": "Codecademy",
+    "colors": [
+      "#f65a5b",
+      "#204056"
+    ]
+  },
+  {
+    "id": "Connexxion",
+    "colors": [
+      "#d2ea32",
+      "#016773"
+    ]
+  },
+  {
+    "id": "Courtyard",
+    "colors": [
+      "#689550",
+      "#85c446",
+      "#c0de9e",
+      "#b9dca4"
+    ]
+  },
+  {
+    "id": "Craft CMS",
+    "colors": [
+      "#da5a47"
+    ]
+  },
+  {
+    "id": "Creative Market",
+    "colors": [
+      "#8ba753"
+    ]
+  },
+  {
+    "id": "Crowne Plaza",
+    "colors": [
+      "#830051",
+      "#cf0072",
+      "#d9e506",
+      "#ff7900",
+      "#00c6d7",
+      "#766a65"
+    ]
+  },
+  {
+    "id": "CrunchBase",
+    "colors": [
+      "#2292a7"
+    ]
+  },
+  {
+    "id": "Culver’s",
+    "colors": [
+      "#005696"
+    ]
+  },
+  {
+    "id": "Cunard",
+    "colors": [
+      "#1d1d1b",
+      "#ae9a64",
+      "#e42313",
+      "#8b8c8d"
+    ]
+  },
+  {
+    "id": "CVS",
+    "colors": [
+      "#cc0000"
+    ]
+  },
+  {
+    "id": "Daimler",
+    "colors": [
+      "#263f6a",
+      "#182b45",
+      "#6b0f24",
+      "#193725",
+      "#606061"
+    ]
+  },
+  {
+    "id": "Debian",
+    "colors": [
+      "#a80030"
+    ]
+  },
+  {
+    "id": "Delectable",
+    "colors": [
+      "#334858",
+      "#cd595a",
+      "#94938f",
+      "#a3a7a6",
+      "#dbc5b0",
+      "#f8dfc2",
+      "#f9ebdf"
+    ]
+  },
+  {
+    "id": "Delicious",
+    "colors": [
+      "#3399ff",
+      "#222222",
+      "#eeeeee"
+    ]
+  },
+  {
+    "id": "Dell",
+    "colors": [
+      "#0085c3",
+      "#7ab800",
+      "#f2af00",
+      "#dc5034",
+      "#ce1126",
+      "#b7295a",
+      "#6e2585",
+      "#71c6c1",
+      "#5482ab",
+      "#009bbb",
+      "#444444",
+      "#eeeeee"
+    ]
+  },
+  {
+    "id": "Delta Airlines",
+    "colors": [
+      "#c8102e",
+      "#862633",
+      "#003a70"
+    ]
+  },
+  {
+    "id": "Dental Plans",
+    "colors": [
+      "#f99104",
+      "#00b7c9"
+    ]
+  },
+  {
+    "id": "Designer News",
+    "colors": [
+      "#2d72d9"
+    ]
+  },
+  {
+    "id": "Designmoo",
+    "colors": [
+      "#e64b50",
+      "#dbc65d"
+    ]
+  },
+  {
+    "id": "DeviantArt",
+    "colors": [
+      "#05cc47",
+      "#4dc47d",
+      "#181a1b"
+    ]
+  },
+  {
+    "id": "Devour",
+    "colors": [
+      "#ff0000"
+    ]
+  },
+  {
+    "id": "DEWALT",
+    "colors": [
+      "#febd17"
+    ]
+  },
+  {
+    "id": "DHL",
+    "colors": [
+      "#ba0c2f",
+      "#ffcd00",
+      "#c9c9c9"
+    ]
+  },
+  {
+    "id": "Diebold",
+    "colors": [
+      "#007dc3",
+      "#003f69",
+      "#954010",
+      "#445c6e",
+      "#005238",
+      "#97824b"
+    ]
+  },
+  {
+    "id": "Digg",
+    "colors": [
+      "#005be2",
+      "#000000"
+    ]
+  },
+  {
+    "id": "Digital Ocean",
+    "colors": [
+      "#008bcf"
+    ]
+  },
+  {
+    "id": "Dindr",
+    "colors": [
+      "#fdb94e",
+      "#f9a852",
+      "#f69653",
+      "#f38654",
+      "#f07654",
+      "#ed6856",
+      "#ef5956",
+      "#ee4c58",
+      "#56c1ab",
+      "#6a6b6a"
+    ]
+  },
+  {
+    "id": "Direct Energy",
+    "colors": [
+      "#f05d21",
+      "#2c5770",
+      "#0f723a",
+      "#c7c8ca",
+      "#666666"
+    ]
+  },
+  {
+    "id": "DIRECTV",
+    "colors": [
+      "#00a6d6",
+      "#00629b",
+      "#003865"
+    ]
+  },
+  {
+    "id": "Discogs",
+    "colors": [
+      "#000000",
+      "#333333",
+      "#f5df2e"
+    ]
+  },
+  {
+    "id": "Discord",
+    "colors": [
+      "#7289da",
+      "#ffffff",
+      "#99aab5",
+      "#2c2f33",
+      "#23272a"
+    ]
+  },
+  {
+    "id": "DISH Network",
+    "colors": [
+      "#ec1944"
+    ]
+  },
+  {
+    "id": "Disqus",
+    "colors": [
+      "#2e9fff"
+    ]
+  },
+  {
+    "id": "Django",
+    "colors": [
+      "#092e20"
+    ]
+  },
+  {
+    "id": "Docker",
+    "colors": [
+      "#0db7ed",
+      "#384d54"
+    ]
+  },
+  {
+    "id": "Domino’s",
+    "colors": [
+      "#0b648f",
+      "#e21737"
+    ]
+  },
+  {
+    "id": "DOW",
+    "colors": [
+      "#e80033",
+      "#fdbb30",
+      "#ed8b00",
+      "#f15d22",
+      "#bf0d3e",
+      "#910048",
+      "#d0006f"
+    ]
+  },
+  {
+    "id": "Dribbble",
+    "colors": [
+      "#444444",
+      "#ea4c89",
+      "#8aba56",
+      "#ff8833",
+      "#00b6e3",
+      "#9ba5a8"
+    ]
+  },
+  {
+    "id": "Dropbox",
+    "colors": [
+      "#007ee5",
+      "#7b8994",
+      "#47525d",
+      "#3d464d"
+    ]
+  },
+  {
+    "id": "Droplr",
+    "colors": [
+      "#5654a4"
+    ]
+  },
+  {
+    "id": "Drupal",
+    "colors": [
+      "#0077c0",
+      "#81ceff",
+      "#00598e"
+    ]
+  },
+  {
+    "id": "Dunked",
+    "colors": [
+      "#2da9d7",
+      "#212a3e"
+    ]
+  },
+  {
+    "id": "Duolingo",
+    "colors": [
+      "#7ac70c",
+      "#8ee000",
+      "#faa918",
+      "#ffc715",
+      "#d33131",
+      "#e53838",
+      "#1cb0f6",
+      "#14d4f4",
+      "#8549ba",
+      "#a560e8",
+      "#4c4c4c",
+      "#6f6f6f",
+      "#cfcfcf",
+      "#f0f0f0",
+      "#bff199",
+      "#f7c8c9"
+    ]
+  },
+  {
+    "id": "Dwolla",
+    "colors": [
+      "#ff7404"
+    ]
+  },
+  {
+    "id": "E*TRADE",
+    "colors": [
+      "#6633cc",
+      "#99cc00"
+    ]
+  },
+  {
+    "id": "Easy Jet",
+    "colors": [
+      "#ff6600",
+      "#000000",
+      "#58595b"
+    ]
+  },
+  {
+    "id": "eBay",
+    "colors": [
+      "#e53238",
+      "#0064d2",
+      "#f5af02",
+      "#86b817"
+    ]
+  },
+  {
+    "id": "El Al",
+    "colors": [
+      "#131137",
+      "#918978"
+    ]
+  },
+  {
+    "id": "Elance",
+    "colors": [
+      "#0d69af"
+    ]
+  },
+  {
+    "id": "Ello",
+    "colors": [
+      "#000000"
+    ]
+  },
+  {
+    "id": "Ember",
+    "colors": [
+      "#f23819"
+    ]
+  },
+  {
+    "id": "Emma",
+    "colors": [
+      "#314855",
+      "#5cc3e8",
+      "#ffdb00",
+      "#79ceb8",
+      "#e95f5c"
+    ]
+  },
+  {
+    "id": "Engadget",
+    "colors": [
+      "#40b3ff"
+    ]
+  },
+  {
+    "id": "Envato",
+    "colors": [
+      "#82b541"
+    ]
+  },
+  {
+    "id": "Epictions",
+    "colors": [
+      "#ff2052",
+      "#e6e6e6",
+      "#404040",
+      "#01b5dd",
+      "#b0db64"
+    ]
+  },
+  {
+    "id": "Ericsson",
+    "colors": [
+      "#002561"
+    ]
+  },
+  {
+    "id": "ESL",
+    "colors": [
+      "#0d9ddb",
+      "#48b8e7",
+      "#efecea",
+      "#2c2b2b"
+    ]
+  },
+  {
+    "id": "ESPN",
+    "colors": [
+      "#ff0033"
+    ]
+  },
+  {
+    "id": "Etsy",
+    "colors": [
+      "#d5641c"
+    ]
+  },
+  {
+    "id": "Evaneos",
+    "colors": [
+      "#33cc99",
+      "#4ba6f5",
+      "#fdca30",
+      "#f79400",
+      "#f34235"
+    ]
+  },
+  {
+    "id": "Eventbrite",
+    "colors": [
+      "#ff8000"
+    ]
+  },
+  {
+    "id": "Evernote",
+    "colors": [
+      "#2dbe60",
+      "#7b868a",
+      "#2facb2",
+      "#166a8f",
+      "#3b4446",
+      "#525e61",
+      "#7b868a",
+      "#aeb6b8",
+      "#d7dcdd",
+      "#eff2f3"
+    ]
+  },
+  {
+    "id": "ExecuCar",
+    "colors": [
+      "#da9a39",
+      "#000000"
+    ]
+  },
+  {
+    "id": "Fab.com",
+    "colors": [
+      "#dd0017",
+      "#000000"
+    ]
+  },
+  {
+    "id": "Facebook",
+    "colors": [
+      "#3b5998"
+    ]
+  },
+  {
+    "id": "Fairfield Inn & Suites",
+    "colors": [
+      "#6caddf",
+      "#b06010",
+      "#004990",
+      "#b50938"
+    ]
+  },
+  {
+    "id": "Fairmont",
+    "colors": [
+      "#a6a685",
+      "#000000"
+    ]
+  },
+  {
+    "id": "famo.us",
+    "colors": [
+      "#fa5c4f"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "npm-andresin87-contact",
+  "version": "0.0.1",
+  "description": "npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresin87/npm-andresin87-contact.git"
+  },
+  "author": "@andresin87 - Andr�és Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresin87/npm-andresin87-contact/issues"
+  },
+  "homepage": "https://github.com/andresin87/npm-andresin87-contact#readme",
+  "dependencies": {
+    "font-awesome-svg-png": "^1.1.5"
+  },
+  "devDependencies": {
+    "after-load": "^1.0.4",
+    "copyfiles": "^1.0.0"
+  }
+}
