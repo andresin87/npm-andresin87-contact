@@ -9,7 +9,7 @@ const fs = require('fs');
 afterLoad('https://brandcolors.net/',function(html){
   let $ = cheerio.load(html);
   let data = $('article[id^="brand-"]');
-  let elems = [];
+  let elems = {};
   Object.keys(data).forEach((e) => {
     if (!isNaN(parseFloat(e)) && isFinite(e)) {
       let c = $('div.color', data[e]);
@@ -19,10 +19,14 @@ afterLoad('https://brandcolors.net/',function(html){
           colors.push(`#${c[f].attribs['data-color-hex']}`);
       });
       // console.log($('div.color', data[e]));
-      elems.push({
+      // elems.push({
+      //   id: data[e].attribs['data-brand-name'],
+      //   colors: colors
+      // });
+      elems[data[e].attribs['data-brand-name'].toLowerCase()] = {
         id: data[e].attribs['data-brand-name'],
         colors: colors
-      });
+      };
     }
   });
   fs.writeFile('../dist/brandlist.json', JSON.stringify(elems, null, 2), 'utf8', ()=>{

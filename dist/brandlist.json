@@ -1,5 +1,5 @@
-[
-  {
+{
+  "500px": {
     "id": "500px",
     "colors": [
       "#0099e5",
@@ -7,7 +7,7 @@
       "#34bf49"
     ]
   },
-  {
+  "about.me": {
     "id": "About.me",
     "colors": [
       "#00405d",
@@ -17,13 +17,13 @@
       "#ffcc33"
     ]
   },
-  {
+  "addvocate": {
     "id": "Addvocate",
     "colors": [
       "#ff3322"
     ]
   },
-  {
+  "adobe": {
     "id": "Adobe",
     "colors": [
       "#ff0000",
@@ -35,7 +35,7 @@
       "#6a737b"
     ]
   },
-  {
+  "aetna": {
     "id": "Aetna",
     "colors": [
       "#d20962",
@@ -46,19 +46,19 @@
       "#7d3f98"
     ]
   },
-  {
+  "aim": {
     "id": "Aim",
     "colors": [
       "#ffd900"
     ]
   },
-  {
+  "airbnb": {
     "id": "Airbnb",
     "colors": [
       "#fd5c63"
     ]
   },
-  {
+  "alcon": {
     "id": "Alcon",
     "colors": [
       "#0079c1",
@@ -67,7 +67,7 @@
       "#49a942"
     ]
   },
-  {
+  "algolia": {
     "id": "Algolia",
     "colors": [
       "#050f2c",
@@ -83,7 +83,7 @@
       "#1cc7d0"
     ]
   },
-  {
+  "alienware": {
     "id": "Alienware",
     "colors": [
       "#020202",
@@ -97,27 +97,27 @@
       "#f00000"
     ]
   },
-  {
+  "alphabet": {
     "id": "Alphabet",
     "colors": [
       "#ed1c24"
     ]
   },
-  {
+  "amazon": {
     "id": "Amazon",
     "colors": [
       "#ff9900",
       "#146eb4"
     ]
   },
-  {
+  "american express": {
     "id": "American Express",
     "colors": [
       "#002663",
       "#4d4f53"
     ]
   },
-  {
+  "american red cross": {
     "id": "American Red Cross",
     "colors": [
       "#ed1b2e",
@@ -137,54 +137,54 @@
       "#000000"
     ]
   },
-  {
+  "android": {
     "id": "Android",
     "colors": [
       "#a4c639"
     ]
   },
-  {
+  "angie’s list": {
     "id": "Angie’s List",
     "colors": [
       "#7fbb00"
     ]
   },
-  {
+  "angularjs": {
     "id": "AngularJS",
     "colors": [
       "#b52e31",
       "#000000"
     ]
   },
-  {
+  "answers": {
     "id": "Answers",
     "colors": [
       "#136ad5",
       "#fb8a2e"
     ]
   },
-  {
+  "aol": {
     "id": "AOL",
     "colors": [
       "#ff0b00",
       "#00c4ff"
     ]
   },
-  {
+  "arch linux": {
     "id": "Arch Linux",
     "colors": [
       "#1793d1",
       "#333333"
     ]
   },
-  {
+  "arizona state university": {
     "id": "Arizona State University",
     "colors": [
       "#990033",
       "#ffb310"
     ]
   },
-  {
+  "asana": {
     "id": "Asana",
     "colors": [
       "#3be8b0",
@@ -194,13 +194,13 @@
       "#fc636b"
     ]
   },
-  {
+  "associated press": {
     "id": "Associated Press",
     "colors": [
       "#ff322e"
     ]
   },
-  {
+  "at&t": {
     "id": "AT&T",
     "colors": [
       "#ff7200",
@@ -209,7 +209,7 @@
       "#3aa5dc"
     ]
   },
-  {
+  "atlanta falcons": {
     "id": "Atlanta Falcons",
     "colors": [
       "#000000",
@@ -217,20 +217,20 @@
       "#a5acaf"
     ]
   },
-  {
+  "atlantic coast conference": {
     "id": "Atlantic Coast Conference",
     "colors": [
       "#013ca6",
       "#a5a9ab"
     ]
   },
-  {
+  "atlassian": {
     "id": "Atlassian",
     "colors": [
       "#003366"
     ]
   },
-  {
+  "auth0": {
     "id": "Auth0",
     "colors": [
       "#16214d",
@@ -239,58 +239,58 @@
       "#d0d2d3"
     ]
   },
-  {
+  "avira": {
     "id": "Avira",
     "colors": [
       "#d40000"
     ]
   },
-  {
+  "baidu": {
     "id": "Baidu",
     "colors": [
       "#de0f17",
       "#2529d8"
     ]
   },
-  {
+  "bandcamp": {
     "id": "Bandcamp",
     "colors": [
       "#629aa9"
     ]
   },
-  {
+  "barnes & noble": {
     "id": "Barnes & Noble",
     "colors": [
       "#2a5934"
     ]
   },
-  {
+  "bebo": {
     "id": "Bebo",
     "colors": [
       "#e04646"
     ]
   },
-  {
+  "behance": {
     "id": "Behance",
     "colors": [
       "#1769ff"
     ]
   },
-  {
+  "best buy": {
     "id": "Best Buy",
     "colors": [
       "#003b64",
       "#fff200"
     ]
   },
-  {
+  "big cartel": {
     "id": "Big Cartel",
     "colors": [
       "#a0ac48",
       "#70b29c"
     ]
   },
-  {
+  "bing": {
     "id": "Bing",
     "colors": [
       "#ffb900",
@@ -298,20 +298,20 @@
       "#a3a3a3"
     ]
   },
-  {
+  "bitbucket": {
     "id": "Bitbucket",
     "colors": [
       "#205081"
     ]
   },
-  {
+  "bitly": {
     "id": "bitly",
     "colors": [
       "#ee6123",
       "#61b3de"
     ]
   },
-  {
+  "blackberry": {
     "id": "Blackberry",
     "colors": [
       "#005387",
@@ -324,19 +324,19 @@
       "#8f8f8c"
     ]
   },
-  {
+  "blogger": {
     "id": "Blogger",
     "colors": [
       "#f57d00"
     ]
   },
-  {
+  "boeing": {
     "id": "Boeing",
     "colors": [
       "#0033a1"
     ]
   },
-  {
+  "boise state university": {
     "id": "Boise State University",
     "colors": [
       "#09347a",
@@ -349,19 +349,19 @@
       "#f6f6f5"
     ]
   },
-  {
+  "bombardier": {
     "id": "Bombardier",
     "colors": [
       "#8996a0"
     ]
   },
-  {
+  "booking.com": {
     "id": "Booking.com",
     "colors": [
       "#003580"
     ]
   },
-  {
+  "bower": {
     "id": "Bower",
     "colors": [
       "#ffcc2f",
@@ -372,14 +372,14 @@
       "#cecece"
     ]
   },
-  {
+  "boy scouts of america": {
     "id": "Boy Scouts of America",
     "colors": [
       "#ce1126",
       "#003f87"
     ]
   },
-  {
+  "british airways": {
     "id": "British Airways",
     "colors": [
       "#075aaa",
@@ -391,7 +391,7 @@
       "#a7a9ac"
     ]
   },
-  {
+  "bt": {
     "id": "BT",
     "colors": [
       "#d52685",
@@ -401,7 +401,7 @@
       "#08538c"
     ]
   },
-  {
+  "buffer": {
     "id": "Buffer",
     "colors": [
       "#168eea",
@@ -415,7 +415,7 @@
       "#f4f7f9"
     ]
   },
-  {
+  "burger king": {
     "id": "Burger King",
     "colors": [
       "#ec1c24",
@@ -424,46 +424,46 @@
       "#ed7902"
     ]
   },
-  {
+  "buzzfeed": {
     "id": "BuzzFeed",
     "colors": [
       "#ee3322"
     ]
   },
-  {
+  "bynder": {
     "id": "Bynder",
     "colors": [
       "#1ca0de",
       "#343a4e"
     ]
   },
-  {
+  "cadbury": {
     "id": "Cadbury",
     "colors": [
       "#472f92"
     ]
   },
-  {
+  "canon": {
     "id": "Canon",
     "colors": [
       "#bc0024",
       "#000000"
     ]
   },
-  {
+  "capital one": {
     "id": "Capital One",
     "colors": [
       "#004977",
       "#d03027"
     ]
   },
-  {
+  "carbonmade": {
     "id": "Carbonmade",
     "colors": [
       "#613854"
     ]
   },
-  {
+  "carrefour": {
     "id": "Carrefour",
     "colors": [
       "#00387b",
@@ -472,7 +472,7 @@
       "#237f52"
     ]
   },
-  {
+  "cartoon network": {
     "id": "Cartoon Network",
     "colors": [
       "#00aeef",
@@ -481,7 +481,7 @@
       "#000000"
     ]
   },
-  {
+  "case-mate": {
     "id": "Case-Mate",
     "colors": [
       "#84754e",
@@ -490,13 +490,13 @@
       "#000000"
     ]
   },
-  {
+  "change.org": {
     "id": "Change.org",
     "colors": [
       "#ec2c22"
     ]
   },
-  {
+  "charity: water": {
     "id": "charity: water",
     "colors": [
       "#ffc907",
@@ -504,40 +504,40 @@
       "#231f20"
     ]
   },
-  {
+  "cheddar": {
     "id": "Cheddar",
     "colors": [
       "#ff7243"
     ]
   },
-  {
+  "coca-cola": {
     "id": "Coca-Cola",
     "colors": [
       "#ed1c16"
     ]
   },
-  {
+  "code school": {
     "id": "Code School",
     "colors": [
       "#616f67",
       "#c68143"
     ]
   },
-  {
+  "codecademy": {
     "id": "Codecademy",
     "colors": [
       "#f65a5b",
       "#204056"
     ]
   },
-  {
+  "connexxion": {
     "id": "Connexxion",
     "colors": [
       "#d2ea32",
       "#016773"
     ]
   },
-  {
+  "courtyard": {
     "id": "Courtyard",
     "colors": [
       "#689550",
@@ -546,19 +546,19 @@
       "#b9dca4"
     ]
   },
-  {
+  "craft cms": {
     "id": "Craft CMS",
     "colors": [
       "#da5a47"
     ]
   },
-  {
+  "creative market": {
     "id": "Creative Market",
     "colors": [
       "#8ba753"
     ]
   },
-  {
+  "crowne plaza": {
     "id": "Crowne Plaza",
     "colors": [
       "#830051",
@@ -569,19 +569,19 @@
       "#766a65"
     ]
   },
-  {
+  "crunchbase": {
     "id": "CrunchBase",
     "colors": [
       "#2292a7"
     ]
   },
-  {
+  "culver’s": {
     "id": "Culver’s",
     "colors": [
       "#005696"
     ]
   },
-  {
+  "cunard": {
     "id": "Cunard",
     "colors": [
       "#1d1d1b",
@@ -590,13 +590,13 @@
       "#8b8c8d"
     ]
   },
-  {
+  "cvs": {
     "id": "CVS",
     "colors": [
       "#cc0000"
     ]
   },
-  {
+  "daimler": {
     "id": "Daimler",
     "colors": [
       "#263f6a",
@@ -606,13 +606,13 @@
       "#606061"
     ]
   },
-  {
+  "debian": {
     "id": "Debian",
     "colors": [
       "#a80030"
     ]
   },
-  {
+  "delectable": {
     "id": "Delectable",
     "colors": [
       "#334858",
@@ -624,7 +624,7 @@
       "#f9ebdf"
     ]
   },
-  {
+  "delicious": {
     "id": "Delicious",
     "colors": [
       "#3399ff",
@@ -632,7 +632,7 @@
       "#eeeeee"
     ]
   },
-  {
+  "dell": {
     "id": "Dell",
     "colors": [
       "#0085c3",
@@ -649,7 +649,7 @@
       "#eeeeee"
     ]
   },
-  {
+  "delta airlines": {
     "id": "Delta Airlines",
     "colors": [
       "#c8102e",
@@ -657,27 +657,27 @@
       "#003a70"
     ]
   },
-  {
+  "dental plans": {
     "id": "Dental Plans",
     "colors": [
       "#f99104",
       "#00b7c9"
     ]
   },
-  {
+  "designer news": {
     "id": "Designer News",
     "colors": [
       "#2d72d9"
     ]
   },
-  {
+  "designmoo": {
     "id": "Designmoo",
     "colors": [
       "#e64b50",
       "#dbc65d"
     ]
   },
-  {
+  "deviantart": {
     "id": "DeviantArt",
     "colors": [
       "#05cc47",
@@ -685,19 +685,19 @@
       "#181a1b"
     ]
   },
-  {
+  "devour": {
     "id": "Devour",
     "colors": [
       "#ff0000"
     ]
   },
-  {
+  "dewalt": {
     "id": "DEWALT",
     "colors": [
       "#febd17"
     ]
   },
-  {
+  "dhl": {
     "id": "DHL",
     "colors": [
       "#ba0c2f",
@@ -705,7 +705,7 @@
       "#c9c9c9"
     ]
   },
-  {
+  "diebold": {
     "id": "Diebold",
     "colors": [
       "#007dc3",
@@ -716,20 +716,20 @@
       "#97824b"
     ]
   },
-  {
+  "digg": {
     "id": "Digg",
     "colors": [
       "#005be2",
       "#000000"
     ]
   },
-  {
+  "digital ocean": {
     "id": "Digital Ocean",
     "colors": [
       "#008bcf"
     ]
   },
-  {
+  "dindr": {
     "id": "Dindr",
     "colors": [
       "#fdb94e",
@@ -744,7 +744,7 @@
       "#6a6b6a"
     ]
   },
-  {
+  "direct energy": {
     "id": "Direct Energy",
     "colors": [
       "#f05d21",
@@ -754,7 +754,7 @@
       "#666666"
     ]
   },
-  {
+  "directv": {
     "id": "DIRECTV",
     "colors": [
       "#00a6d6",
@@ -762,7 +762,7 @@
       "#003865"
     ]
   },
-  {
+  "discogs": {
     "id": "Discogs",
     "colors": [
       "#000000",
@@ -770,7 +770,7 @@
       "#f5df2e"
     ]
   },
-  {
+  "discord": {
     "id": "Discord",
     "colors": [
       "#7289da",
@@ -780,39 +780,39 @@
       "#23272a"
     ]
   },
-  {
+  "dish network": {
     "id": "DISH Network",
     "colors": [
       "#ec1944"
     ]
   },
-  {
+  "disqus": {
     "id": "Disqus",
     "colors": [
       "#2e9fff"
     ]
   },
-  {
+  "django": {
     "id": "Django",
     "colors": [
       "#092e20"
     ]
   },
-  {
+  "docker": {
     "id": "Docker",
     "colors": [
       "#0db7ed",
       "#384d54"
     ]
   },
-  {
+  "domino’s": {
     "id": "Domino’s",
     "colors": [
       "#0b648f",
       "#e21737"
     ]
   },
-  {
+  "dow": {
     "id": "DOW",
     "colors": [
       "#e80033",
@@ -824,7 +824,7 @@
       "#d0006f"
     ]
   },
-  {
+  "dribbble": {
     "id": "Dribbble",
     "colors": [
       "#444444",
@@ -835,7 +835,7 @@
       "#9ba5a8"
     ]
   },
-  {
+  "dropbox": {
     "id": "Dropbox",
     "colors": [
       "#007ee5",
@@ -844,13 +844,13 @@
       "#3d464d"
     ]
   },
-  {
+  "droplr": {
     "id": "Droplr",
     "colors": [
       "#5654a4"
     ]
   },
-  {
+  "drupal": {
     "id": "Drupal",
     "colors": [
       "#0077c0",
@@ -858,14 +858,14 @@
       "#00598e"
     ]
   },
-  {
+  "dunked": {
     "id": "Dunked",
     "colors": [
       "#2da9d7",
       "#212a3e"
     ]
   },
-  {
+  "duolingo": {
     "id": "Duolingo",
     "colors": [
       "#7ac70c",
@@ -886,20 +886,20 @@
       "#f7c8c9"
     ]
   },
-  {
+  "dwolla": {
     "id": "Dwolla",
     "colors": [
       "#ff7404"
     ]
   },
-  {
+  "e*trade": {
     "id": "E*TRADE",
     "colors": [
       "#6633cc",
       "#99cc00"
     ]
   },
-  {
+  "easy jet": {
     "id": "Easy Jet",
     "colors": [
       "#ff6600",
@@ -907,7 +907,7 @@
       "#58595b"
     ]
   },
-  {
+  "ebay": {
     "id": "eBay",
     "colors": [
       "#e53238",
@@ -916,32 +916,32 @@
       "#86b817"
     ]
   },
-  {
+  "el al": {
     "id": "El Al",
     "colors": [
       "#131137",
       "#918978"
     ]
   },
-  {
+  "elance": {
     "id": "Elance",
     "colors": [
       "#0d69af"
     ]
   },
-  {
+  "ello": {
     "id": "Ello",
     "colors": [
       "#000000"
     ]
   },
-  {
+  "ember": {
     "id": "Ember",
     "colors": [
       "#f23819"
     ]
   },
-  {
+  "emma": {
     "id": "Emma",
     "colors": [
       "#314855",
@@ -951,19 +951,19 @@
       "#e95f5c"
     ]
   },
-  {
+  "engadget": {
     "id": "Engadget",
     "colors": [
       "#40b3ff"
     ]
   },
-  {
+  "envato": {
     "id": "Envato",
     "colors": [
       "#82b541"
     ]
   },
-  {
+  "epictions": {
     "id": "Epictions",
     "colors": [
       "#ff2052",
@@ -973,13 +973,13 @@
       "#b0db64"
     ]
   },
-  {
+  "ericsson": {
     "id": "Ericsson",
     "colors": [
       "#002561"
     ]
   },
-  {
+  "esl": {
     "id": "ESL",
     "colors": [
       "#0d9ddb",
@@ -988,19 +988,19 @@
       "#2c2b2b"
     ]
   },
-  {
+  "espn": {
     "id": "ESPN",
     "colors": [
       "#ff0033"
     ]
   },
-  {
+  "etsy": {
     "id": "Etsy",
     "colors": [
       "#d5641c"
     ]
   },
-  {
+  "evaneos": {
     "id": "Evaneos",
     "colors": [
       "#33cc99",
@@ -1010,13 +1010,13 @@
       "#f34235"
     ]
   },
-  {
+  "eventbrite": {
     "id": "Eventbrite",
     "colors": [
       "#ff8000"
     ]
   },
-  {
+  "evernote": {
     "id": "Evernote",
     "colors": [
       "#2dbe60",
@@ -1031,27 +1031,27 @@
       "#eff2f3"
     ]
   },
-  {
+  "execucar": {
     "id": "ExecuCar",
     "colors": [
       "#da9a39",
       "#000000"
     ]
   },
-  {
+  "fab.com": {
     "id": "Fab.com",
     "colors": [
       "#dd0017",
       "#000000"
     ]
   },
-  {
+  "facebook": {
     "id": "Facebook",
     "colors": [
       "#3b5998"
     ]
   },
-  {
+  "fairfield inn & suites": {
     "id": "Fairfield Inn & Suites",
     "colors": [
       "#6caddf",
@@ -1060,17 +1060,18 @@
       "#b50938"
     ]
   },
-  {
+  "fairmont": {
     "id": "Fairmont",
     "colors": [
       "#a6a685",
       "#000000"
     ]
   },
-  {
+  "famo.us": {
     "id": "famo.us",
     "colors": [
-      "#fa5c4f"
+      "#fa5c4f",
+      "#333333"
     ]
   }
-]
+}

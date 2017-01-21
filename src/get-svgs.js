@@ -32,12 +32,13 @@ copyfiles([
 
     console.log('------------------------------------------------------');
     // console.log(elems);
-    data = [];
+    data = {};
     Object.keys(elems).forEach((e) => {
-      if (!isNaN(parseFloat(e)) && isFinite(e))
-        data.push(elems[e]);
+      if (!isNaN(parseFloat(e)) && isFinite(e)) {
+        data[elems[e].id] =  elems[e].d;
+      }
     });
-    console.log(data);
+    //console.log(data);
     fs.writeFile('../dist/iconlist.json', JSON.stringify(data, null, 2), 'utf8', ()=>{
       console.log('elems-saved')
     });
