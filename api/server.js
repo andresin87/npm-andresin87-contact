@@ -36,7 +36,7 @@ fs.readFile('./dist/iconlist.json', 'utf8', function(err, data) {
 
     app.use(router);
 
-    app.listen(80, function() {
+    app.listen(3000, function() {
       console.log("Node server running on http://localhost:3000");
     });
   });
